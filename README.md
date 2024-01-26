@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ryan, I work in cloud architecture day to day with a special interest in security architecture.
+I'm Ryan, I work in cloud architecture day to day with a special interest in security architecture. I write Python, I like data and learning about new techy stuff.
 <!--
 **ryaninthecloud/ryaninthecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
